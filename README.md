@@ -90,28 +90,6 @@ Avg Runtime (min) = AVERAGE('Titles'[Runtime (min)])
 
 ---
 
-## 🔍 How to Read It
-- Use slicers to focus on **specific decades**, **audience ratings**, or **content types**.
-- Compare **ratings** vs **votes** to find outliers (hidden gems or hype-heavy titles).
-- Track **content growth** and **runtime shifts** across time to inform programming strategy.
-
----
-
-## 🚀 Roadmap
-- Country & language maps (explode multi‑value fields to rows).
-- Popularity normalization (e.g., votes per year since release).
-- Sentiment enrichment from synopses (NLP) for genre/cluster insights.
-- Publish a Power BI Service share link and add it here.
-
----
-
-## 📝 Notes
-- **Dataset**: Publicly available Netflix titles dataset (add your source link here).
-- **License**: If you want this repo open-source, add a `LICENSE` (e.g., MIT).
-- **Attribution**: If you use/extend this report, please credit this repo.
-
----
-
 ## 👤 Author
 **Aditya Kumar** — Data & BI enthusiast  
 Suggestions & PRs welcome!
